@@ -1,2 +1,2 @@
 # usfeu_bot
-Telegram &amp; Vk bot application
+Vk bot application
